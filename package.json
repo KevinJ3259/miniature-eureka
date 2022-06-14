@@ -1,0 +1,19 @@
+{
+  "name": "my_note_taker",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "cd Develop && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinJ3259/miniature-eureka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinJ3259/miniature-eureka/issues"
+  },
+  "homepage": "https://github.com/KevinJ3259/miniature-eureka#readme"
+}
