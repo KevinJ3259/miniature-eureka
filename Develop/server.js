@@ -2,6 +2,8 @@ const express = require("express");
 const fs = require("fs").promises;
 const path = require("path");
 
+const PORT = process.env.PORT || 3000;
+
 const app = express();
 
 app.use(express.json());
@@ -47,6 +49,6 @@ app.delete("/api/notes/:id", async function (req, res) {
   res.sendStatus(200);
 });
 
-app.listen(3000, function () {
-  console.log("listening on port 3000");
+app.listen(PORT, function () {
+  console.log("listening on port "+PORT);
 });
