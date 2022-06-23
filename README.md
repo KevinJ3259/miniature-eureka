@@ -1,16 +1,17 @@
 # Note Taker Starter Code
+
 Table Of Contents:
 Description
 Deployment
 Installation
 License
 Description
-In this application, you will witness my use of Inquirer, as well as the Jest package.
+In this application, you will be able to organize your thoughts, as well as keep track of tasks you need to complete by writing and saving and deleting notes.
 
 Deployment:
-[GitHub] Repo: https://github.com/KevinJ3259/my_team_profile_generator 
+[GitHub] Repo: https://github.com/KevinJ3259/my_note_taker
 
-GitHub Pages: https://kevinj3259.github.io/my_team_profile_generator 
+GitHub Pages: https://kevinj3259.github.io/my_note_taker
 
 picture
 
