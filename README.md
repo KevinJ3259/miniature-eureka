@@ -13,6 +13,8 @@ Deployment:
 
 GitHub Pages: https://kevinj3259.github.io/my_note_taker
 
+Heroku: https://powerful-citadel-38311.herokuapp.com/
+
 picture
 
 Installation:
